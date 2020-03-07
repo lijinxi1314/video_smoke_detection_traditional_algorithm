@@ -1,0 +1,1 @@
+# video_smoke_detection_traditional_algorithm
